@@ -23,5 +23,8 @@ def main():
         robot.behavior.drive_on_charger()
 
 
+# Driving by coordinates.
+# Detect single colour object
+
 if __name__ == "__main__":
     main()
